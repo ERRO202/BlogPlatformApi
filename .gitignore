@@ -1,0 +1,40 @@
+# Build and publish folders
+bin/
+obj/
+out/
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Visual Studio files
+.vs/
+*.ncrunch*
+*.vscode/
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Env
+.env
+
+# Others
+launchSettings.json
