@@ -146,7 +146,7 @@ BlogPlatform/
 ---
 
 ## 👨‍💻 Author
-**Juan Vinicius Panighel**  
+**Juan Panighel**  
 Systems Developer 
 💻 .NET | C# | EF Core | React | TypeScript | CI/CD  
 📍 Brazil  
