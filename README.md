@@ -150,3 +150,5 @@ BlogPlatform/
 Systems Developer 
 💻 .NET | C# | EF Core | React | TypeScript | CI/CD  
 📍 Brazil  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/juan-p-651880164)
+
